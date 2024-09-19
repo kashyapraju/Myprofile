@@ -16,7 +16,7 @@ const Skills = () => {
                 data-aos-duration="1000"
               >
                 <img src={data.imageSrc} alt="" />
-                <h3>{data.title}</h3>
+               
               </div>
             </>
           ))}

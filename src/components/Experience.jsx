@@ -15,10 +15,10 @@ const Experience = () => {
                 data-aos="zoom-in"
                 data-aos-duration="1000"
               >
-                <div className="left">
+                <div className="left2">
                   <img src={data.imageSrc}alt="" />
                 </div>
-                <div className="right">
+                <div className="right2">
                   <h2>{data.role}</h2>
                   <h4>
                     <span style={{ color: "yellowgreen" }}>
